@@ -28,8 +28,6 @@
 [Doctor.csv](https://github.com/dsanisur/Web_scraping_formate/files/10723529/Doctor.csv)
 
 
-https://user-images.githubusercontent.com/123252451/218497265-a40e961f-94d2-4573-9e75-c0e58c01e16a.mp4
-
 
             for i in doctor:
                 try:
